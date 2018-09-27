@@ -1,0 +1,23 @@
+/**********
+ * common
+ *********/
+.global-text-warp {
+  color: #fff;
+  font-size: 35px;
+  font-weight: 400;
+}
+
+/*清浮动*/
+.clear:before,
+.clear:after {
+  display: table;
+  content: " ";
+}
+
+.clear:after {
+  clear: both;
+}
+
+.clear {
+  *zoom: 1;
+}

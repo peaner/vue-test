@@ -1,0 +1,32 @@
+{
+  "sliders":[{"number":1,"current":true}],
+  "items":[
+    {
+      "id":50,
+      "alias":"web-20180921-te",
+      "nickname":"web-0921-te",
+      "address":"海淀区中关村",
+      "uuid":"ca9852fd5c404d0bacd982d84c9257f3",
+      "type":0,
+      "mute":true,
+      "config":{},
+    },
+    {
+      "id":51,
+      "alias":"web-20180925-1",
+      "nickname":"web-0925-stu",
+      "address":"北京市朝阳区",
+      "uuid":"4f0269acbb9c4d6bb81112d75f0a2130",
+      "type":0,
+      "mute":true,"config":{},
+    }],
+  "page":1,
+  "totalCount":2,
+  "sliderCount":1,
+  "pageSize":20,
+  "totalPages":1,
+  "first":true,
+  "last":true,
+  "hasNext":false,
+  "hasPrevious":false,
+}
